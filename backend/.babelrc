@@ -1,0 +1,21 @@
+
+{
+    "presets": ["@babel/preset-env"]
+}
+// {
+//     "presets": [
+//       [
+//         "@babel/preset-env",
+//         {
+//           "corejs": "2",
+//           "useBuiltIns": "entry"
+//         }
+//       ],
+//       "@babel/preset-react"
+//     ],
+//     "plugins": [
+//       "@babel/plugin-transform-runtime",
+//       "@babel/plugin-proposal-optional-chaining",
+//       "@babel/plugin-proposal-class-properties"
+//     ]
+//   }
